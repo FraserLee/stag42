@@ -26,20 +26,20 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		_______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______,
 		_______, _______, _______, _______, _______, _______),
 
-	//layer 1
+	//layer 1 (momentary)
 	KEYMAP(
 		TG(5),    KC_LEFT,   KC_DOWN,  KC_UP,    KC_RGHT,  S(KC_5),  S(KC_6),   S(KC_7),  S(KC_8),  S(KC_9),  S(KC_0),  KC_BSPC,
 		KC_CAPS,  S(KC_1),   S(KC_2),  S(KC_3),  S(KC_4),  KC_5,     KC_6,      KC_7,     KC_8,     KC_9,     KC_0,     KC_ENT,
 		_______,  KC_1,      KC_2,     KC_3,     KC_4,     KC_SCLN,  KC_MINS,   KC_EQL,   KC_LBRC,  KC_RBRC,  _______,  LT(6,KC_RSFT),
 		LT(6,KC_LSFT),  KC_GRV,   KC_BSLS,  KC_SLSH,  KC_QUOT,  _______),
-	//layer 1 lock
+	//layer 1 (lock)
 	KEYMAP(
 		TG(5),    KC_LEFT,   KC_DOWN,  KC_UP,    KC_RGHT,  S(KC_5),  S(KC_6),   S(KC_7),  S(KC_8),  S(KC_9),  S(KC_0),  KC_BSPC,
 		KC_CAPS,  S(KC_1),   S(KC_2),  S(KC_3),  S(KC_4),  KC_5,     KC_6,      KC_7,     KC_8,     KC_9,     KC_0,     KC_ENT,
 		TG(5),  KC_1,      KC_2,     KC_3,     KC_4,     KC_SCLN,  KC_MINS,   KC_EQL,   KC_LBRC,  KC_RBRC,  TG(5),  LT(6,KC_RSFT),
 		LT(6,KC_LSFT),  KC_GRV,   KC_BSLS,  KC_SLSH,  KC_QUOT,  _______),
 
-	
+
 	//layer 1 + shift
 	KEYMAP(
 		KC_MPLY,  KC_MRWD,    KC_VOLD,     KC_VOLU,     KC_MFFD,     _______,     _______,     _______,    _______,     KC_F11,      KC_F12,   KC_BSPC,
