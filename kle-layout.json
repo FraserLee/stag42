@@ -1,0 +1,113 @@
+[
+  [
+    {
+      "c": "#d91e1e",
+      "p": "DSA",
+      "a": 7,
+      "f": 8
+    },
+    "<i class='mss mss-Unicode-Escape-3'></i>",
+    {
+      "c": "#919191",
+      "f": 9
+    },
+    "<i class='fa fa-angle-left'></i>",
+    "<i class='fa fa-angle-up'></i>",
+    "<i class='fa fa-angle-down'></i>",
+    "<i class='fa fa-angle-right'></i>"
+  ],
+  [
+    {
+      "x": 0.25,
+      "f": 7
+    },
+    "<i class='kb kb-Line-End'></i>",
+    {
+      "c": "#cccccc",
+      "f": 5
+    },
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    {
+      "c": "#919191",
+      "f": 6
+    },
+    "<i class='mss mss-Unicode-BackSpace-DeleteLeft-Big-2'></i>"
+  ],
+  [
+    {
+      "x": 0.5
+    },
+    "<i class='kb kb-Hamburger-Menu'></i>",
+    {
+      "c": "#cccccc",
+      "f": 5
+    },
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    {
+      "a": 5
+    },
+    ":\n;",
+    {
+      "c": "#0c9cc7",
+      "a": 7,
+      "f": 6
+    },
+    "<i class='kb kb-Return-2'></i>"
+  ],
+  [
+    {
+      "x": 0.75,
+      "c": "#919191",
+      "f": 7
+    },
+    "<i class='fa fa-angle-double-up'></i>",
+    {
+      "c": "#cccccc",
+      "f": 5
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "a": 5
+    },
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "c": "#919191",
+      "a": 7,
+      "f": 7
+    },
+    "<i class='fa fa-angle-double-up'></i>"
+  ],
+  [
+    {
+      "x": 2,
+      "f": 5,
+      "w": 6.25
+    },
+    ""
+  ]
+]
