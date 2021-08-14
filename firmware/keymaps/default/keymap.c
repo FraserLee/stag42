@@ -42,8 +42,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 	//layer 1 + shift
 	KEYMAP(
-		KC_MPLY,  KC_MRWD,    KC_VOLD,     KC_VOLU,     KC_MFFD,     _______,     _______,     _______,    _______,     KC_F11,      KC_F12,   KC_BSPC,
-		_______,  _______,    _______,     _______,     _______,     KC_F5,       KC_F6,       KC_F7,      KC_F8,       KC_F9,       KC_F10,   KC_ENT,
+		KC_MPLY,  KC_MRWD,    KC_VOLD,     KC_VOLU,     KC_MFFD,     _______,     _______,     _______,    _______,     KC_F11,      KC_F12,   KC_DEL,
+		_______,  _______,    _______,     _______,     _______,     KC_F5,       KC_F6,       KC_F7,      KC_F8,       KC_F9,       KC_F10,   _______,
 		_______,  KC_F1,      KC_F2,       KC_F3,       KC_F4,       S(KC_SCLN),  S(KC_MINS),  S(KC_EQL),  S(KC_LBRC),  S(KC_RBRC),  _______,  _______,
 		_______,  S(KC_GRV),  S(KC_BSLS),  S(KC_SLSH),  S(KC_QUOT),  _______)
 };
